@@ -13,5 +13,6 @@ Min lille scriptsuite som kjøres hver morgen.
 
 ##### Kjøring
 
-*pip install -r requirements.txt*
-*python dagsnytt.py*
+**pip install -r requirements.txt**
+
+**python dagsnytt.py**
