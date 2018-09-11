@@ -11,8 +11,6 @@ Min lille scriptsuite som kjøres hver morgen.
 - Siste SMBC
 - Stats fra Duolingo fra ønskede brukere
 
-##### Kjøring
-
 **pip install -r requirements.txt**
 
 **python dagsnytt.py**
